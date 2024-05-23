@@ -1,0 +1,4 @@
+repository "GameFarm1@Esherrera@cloud"
+  path "/"
+    br "/main"
+    co "/main"

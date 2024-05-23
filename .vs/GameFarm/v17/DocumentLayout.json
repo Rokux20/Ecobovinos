@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\st-iv\\OneDrive\\Escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\Game\\GameFarm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st-iv\\OneDrive\\Escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\Game\\My project\\Assets\\Devion Games\\Triggers\\Scripts\\Runtime\\Sequence\\Actions\\Component\\SetEnabled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9DDD6-D8E4-DA5A-7859-1BC26E7569EE}|Assembly-CSharp.csproj|c:\\users\\st-iv\\onedrive\\escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\game\\gamefarm\\assets\\scripts\\logicobjectives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C9DDD6-D8E4-DA5A-7859-1BC26E7569EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\logicobjectives.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C9DDD6-D8E4-DA5A-7859-1BC26E7569EE}|Assembly-CSharp.csproj|c:\\users\\st-iv\\onedrive\\escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\game\\gamefarm\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C9DDD6-D8E4-DA5A-7859-1BC26E7569EE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetEnabled.cs",
+              "DocumentMoniker": "C:\\Users\\st-iv\\OneDrive\\Escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\Game\\My project\\Assets\\Devion Games\\Triggers\\Scripts\\Runtime\\Sequence\\Actions\\Component\\SetEnabled.cs",
+              "RelativeDocumentMoniker": "..\\My project\\Assets\\Devion Games\\Triggers\\Scripts\\Runtime\\Sequence\\Actions\\Component\\SetEnabled.cs",
+              "ToolTip": "C:\\Users\\st-iv\\OneDrive\\Escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\Game\\My project\\Assets\\Devion Games\\Triggers\\Scripts\\Runtime\\Sequence\\Actions\\Component\\SetEnabled.cs",
+              "RelativeToolTip": "..\\My project\\Assets\\Devion Games\\Triggers\\Scripts\\Runtime\\Sequence\\Actions\\Component\\SetEnabled.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T23:16:17.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\st-iv\\OneDrive\\Escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\Game\\GameFarm\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\st-iv\\OneDrive\\Escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\Game\\GameFarm\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T22:02:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogicObjectives.cs",
+              "DocumentMoniker": "C:\\Users\\st-iv\\OneDrive\\Escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\Game\\GameFarm\\Assets\\Scripts\\LogicObjectives.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LogicObjectives.cs",
+              "ToolTip": "C:\\Users\\st-iv\\OneDrive\\Escritorio\\universidad\\6 semestre\\ingenieria de sofware 2\\git\\Game\\GameFarm\\Assets\\Scripts\\LogicObjectives.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LogicObjectives.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T21:03:59.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
